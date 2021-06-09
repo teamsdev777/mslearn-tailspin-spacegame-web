@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/teams0746/teams-Pipeline/_apis/build/status/teamsdev777.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/teams0746/teams-Pipeline/_build/latest?definitionId=2&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
